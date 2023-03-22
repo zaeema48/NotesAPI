@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "notesList")
+@Table(name = "notes_list")
 @DynamicUpdate
 @Data
 @NoArgsComstructor
